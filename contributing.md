@@ -188,6 +188,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Warframe · Updated 2026-11-21 · Shared under the MIT License*
+*Warframe · Updated 2026-11-22 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-21 -->
+<!-- last reviewed 2026-11-22 -->
